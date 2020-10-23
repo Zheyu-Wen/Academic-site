@@ -18,7 +18,7 @@ bio: My research interests include Computer Vision, brain image data processing,
 
 interests:
 - Computer Vision
-- Spatial temporal dynamic model
+- Spatial temporal dynamic
 - brain image
 
 education:
@@ -66,9 +66,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Student
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zheyu Wen is research assistant and master student in University of Michigan, Ann Arbor. His research interests include Computer Vision, Spatial temporal dynamic modeling for resting fMRI data and image processing. He is going to pursue Ph.D. program in Fall 2021.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
