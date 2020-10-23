@@ -23,7 +23,7 @@ interests:
 
 education:
   - course: MS in Electrical and Computer Engineering
-    institution:University of Michigan
+    institution: University of Michigan
     year: 2019-2021
   - course: BS in Communication Engineering
     institution: University of Electronic and Technology of China
