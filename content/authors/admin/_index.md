@@ -26,12 +26,12 @@ education:
   # - course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Electrical and Computer Engineering
+    institution: University of Michigan Ann Arbor
+    year: 2021
+  - course: BSc in Communication Engineering
+    institution: University of Electrical and Scientific Technology of China 
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
