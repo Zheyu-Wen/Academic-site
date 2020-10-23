@@ -22,6 +22,7 @@ interests:
 - brain image
 
 education:
+  course:
   - course: MS in Electrical and Computer Engineering
     institution: University of Michigan
     year: 2019-2021
