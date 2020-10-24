@@ -31,10 +31,20 @@ subtitle = ""
   > **Neural Ordinary Differential Equation for temporal dynamic model.** 
   * I analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
 
+[[experience]]
+  title = "Graduate Researcher"
+  company = "University of Michigan, Ann Arbor"
+  company_url = ""
+  location = "MI"
+  date_start = "2019-09-01"
+  date_end = "2019-12-31"
+  description = """
+  > **Reconstruction on SPECT data.**
+  * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
 
 [[experience]]
   title = "Undergraduate Researcher"
-  company = "University of Electronic and Scientific Technology of China"
+  company = "UESTC"
   company_url = ""
   location = "China"
   date_start = "2018-07-01"
