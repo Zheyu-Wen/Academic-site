@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Journal"
+    author = "Kim J. H., Zhang, Y., Han, K., **Zhe, Y.** Choi, M., & Liu, Z. (2020). Representation Learning of Resting State fMRI with Variational Autoencoder. bioRxiv."
     exclude_featured = false
   
 [design]
@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+# {{% callout note %}}
+# Quickly discover relevant content by [filtering publications](./publication/).
+# {{% /callout %}}
