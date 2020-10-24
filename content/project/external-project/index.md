@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Google Football AI training
+summary: Discretize the whole football field into meshgrid. Used Monte Carlo Search Tree to learn the action strategy of football AI to deal with the state captured by environment. See demo for more information.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Artificial Intelligence
+date: "2029-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Gfootball environment
   focal_point: Smart
 ---
