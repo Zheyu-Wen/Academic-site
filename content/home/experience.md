@@ -31,10 +31,6 @@ subtitle = ""
   > **Neural Ordinary Differential Equation for temporal dynamic model.** 
   * I analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
 
-# Responsibilities include:
-# * Analysing
-# * Modelling
-# * Deploying
 
 [[experience]]
   title = "Graduate Researcher"
