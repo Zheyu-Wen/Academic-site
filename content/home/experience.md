@@ -25,7 +25,7 @@ subtitle = ""
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  > **Variational Autoencoder algorithm in resting state fMRI data.** **[code](https://github.com/CoderNoMercy)**.
+  > **Variational Autoencoder algorithm in resting state fMRI data.** **[code&demo](https://github.com/CoderNoMercy)**.
   * Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. 
   * Extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.
   > **Neural Ordinary Differential Equation for temporal dynamic model.** 
@@ -39,7 +39,7 @@ subtitle = ""
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = """
-  > **Reconstruction on SPECT data.**
+  > **Reconstruction on SPECT data.** **[code](https://github.com/CoderNoMercy)**. **[demo](https://codernomercy.github.io/elements.html)**.
   * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
 
 [[experience]]
@@ -52,7 +52,7 @@ subtitle = ""
   description = """
   > **Intelligent Communication.**
   * Used Neural network to replace computation costing part of BiG-AMP which is used in image reconstruction. 
-  > **Matrix Factorization**
+  > **Matrix Factorization** **[code](https://github.com/CoderNoMercy)**
   * Studied the Bilinear Generalized Approximate Message Passing algorithm and designed Variational Bayesian to improve the accuracy. Utilized Matlab to simulate the algorithm and compared the two algorithms in the same condition."""
 
 +++
