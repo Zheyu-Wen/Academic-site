@@ -24,14 +24,14 @@ subtitle = ""
   location = "MI"
   date_start = "2020-05-01"
   date_end = ""
-  description = """ I did two project this summer including: \\
-  **1. Used Variational Autoencoder algorithm to get disentangled latent code from pre-processed resting state fMRI data.** Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. I also extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.\\
-**2. Took advantage of Neural Ordinary Differential Equation method to establish temporal dynamic model for resting state fMRI data.** I analyze the saddle point     for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
-  # Responsibilities include:
-  
-  # * Analysing
-  # * Modelling
-  # * Deploying
+  description = """ I did two project this summer including:
+  *1. **Used Variational Autoencoder algorithm to get disentangled latent code from pre-processed resting state fMRI data.** Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. I also extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.
+*2. **Took advantage of Neural Ordinary Differential Equation method to establish temporal dynamic model for resting state fMRI data.** I analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
+
+# Responsibilities include:
+# * Analysing
+# * Modelling
+# * Deploying
 
 [[experience]]
   title = "Graduate Researcher"
