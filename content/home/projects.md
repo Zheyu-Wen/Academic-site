@@ -26,11 +26,11 @@ subtitle = ""
   tag = "*"
   
   [[content.filter_button]]
-  name = "CV"
+  name = "Computer Vision"
   tag = "CV"
   
   [[content.filter_button]]
-  name = "AI"
+  name = "Artificial Intelligence"
   tag = "AI"
 
 [design]
