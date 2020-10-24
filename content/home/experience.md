@@ -39,7 +39,7 @@ subtitle = ""
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = """
-  > **Reconstruction on SPECT data.** **[code](https://github.com/CoderNoMercy)**. **[demo](https://codernomercy.github.io/elements.html)**.
+  > **Reconstruction on SPECT data.** **[demo](https://codernomercy.github.io/elements.html)**.
   * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
 
 [[experience]]
@@ -52,7 +52,7 @@ subtitle = ""
   description = """
   > **Intelligent Communication.**
   * Used Neural network to replace computation costing part of BiG-AMP which is used in image reconstruction. 
-  > **Matrix Factorization** **[code](https://github.com/CoderNoMercy)**
+  > **Matrix Factorization** **[code](https://github.com/CoderNoMercy/BIG-AMP-improvement-trial)**
   * Studied the Bilinear Generalized Approximate Message Passing algorithm and designed Variational Bayesian to improve the accuracy. Utilized Matlab to simulate the algorithm and compared the two algorithms in the same condition."""
 
 +++
