@@ -27,11 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "Computer Vision"
-  tag = "Deep Learning"
+  tag = "Computer Vision"
   
   [[content.filter_button]]
   name = "Artificial Intelligence"
-  tag = "Demo"
+  tag = "Artificial Intelligence"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
