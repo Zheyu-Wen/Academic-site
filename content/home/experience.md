@@ -48,11 +48,11 @@ subtitle = ""
   company_url = ""
   location = "China"
   date_start = "2018-07-01"
-  date_end = "2019-7-1"
+  date_end = "2019-07-01"
   description = """
   > **Intelligent Communication.**
   * Used Neural network to replace computation costing part of BiG-AMP which is used in image reconstruction. 
   > **Matrix Factorization**
-  * Studied the Bilinear Generalized Approximate Message Passing algorithm and designed Variational Bayesian to improve the accuracy. Utilized Matlab to simulate   the algorithm and compared the two algorithms in the same condition."""
+  * Studied the Bilinear Generalized Approximate Message Passing algorithm and designed Variational Bayesian to improve the accuracy. Utilized Matlab to simulate the algorithm and compared the two algorithms in the same condition."""
 
 +++
