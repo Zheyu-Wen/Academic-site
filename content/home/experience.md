@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Research Experience"
 subtitle = ""
@@ -43,16 +43,4 @@ subtitle = ""
   > **Reconstruction on SPECT data.**
   * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
 
-[[experience]]
-  title = "Undergraduate Researcher"
-  company = "University of Electronic and Scientific Technology of China"
-  company_url = ""
-  location = "China"
-  date_start = "2018-07-01"
-  date_end = "2019-7-1"
-  description = """
-  > **Intelligent Communication.**
-  * Used Neural network to replace computation costing part of BiG-AMP which is used in image reconstruction. 
-  > **Matrix Factorization**
-  * Studied the Bilinear Generalized Approximate Message Passing algorithm and designed Variational Bayesian to improve the accuracy. Utilized Matlab to simulate   the algorithm and compared the two algorithms in the same condition."""
 +++
