@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = "Journal"
-    author = "Kim J. H., Zhang, Y., Han, K., **Zhe, Y.** Choi, M., & Liu, Z. (2020). Representation Learning of Resting State fMRI with Variational Autoencoder. bioRxiv."
+    author = ""
     exclude_featured = false
   
 [design]
@@ -70,3 +70,4 @@ subtitle = ""
 # {{% callout note %}}
 # Quickly discover relevant content by [filtering publications](./publication/).
 # {{% /callout %}}
+Kim, Jung-Hoon, Yizhen Zhang, Kuan Han, **Zheyu Wen**, Minkyu Choi, and Zhongming Liu. "Representation Learning of Resting State fMRI with Variational Autoencoder." bioRxiv (2020).
