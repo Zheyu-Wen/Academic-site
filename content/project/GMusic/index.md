@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: GMusic
+summary: Took advantage of GAN algorithm to learn music style and generate its own music after training .https://github.com/CoderNoMercy/GAN_music_proj
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- AI
+date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://github.com/CoderNoMercy/GAN_music_proj
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: GMusic logo
   focal_point: Smart
 ---
