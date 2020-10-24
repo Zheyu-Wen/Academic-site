@@ -28,7 +28,7 @@ subtitle = ""
   > **Variational Autoencoder algorithm in resting state fMRI data.** 
   * Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. 
   * Extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.
-  > **Took advantage of Neural Ordinary Differential Equation method to establish temporal dynamic model for resting state fMRI data.** 
+  > **Neural Ordinary Differential Equation for temporal dynamic model.** 
   * I analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
 
 # Responsibilities include:
@@ -43,8 +43,8 @@ subtitle = ""
   location = "MI"
   date_start = "2019-09-01"
   date_end = "2019-12-31"
-  description = """ 
-      > **Reconstruction on SPECT data**
-      * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT       projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
+  description = """
+  > **Reconstruction on SPECT data.**
+  * Constructed Convolutional Neural Network by Keras in Python to compress and reconstructed SPECT image’s projection. Explored low rank property of SPECT projection. Analyzed several metrics of reconstruction like NRMSE, Contrastive Rate, Contrastive to Noise Ratio. """
 
 +++
