@@ -29,7 +29,7 @@ subtitle = ""
   * Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. 
   * Extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.
   > **Neural Ordinary Differential Equation for temporal dynamic model.** 
-  * I analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
+  * I model the temporal dynamic of resting state fmri data as ordinary differential equation, and analyze the saddle point for latent of latent code. This method brings a new view for spatial temporal modeling compared to existing method like AR model and HMM. """
 
 [[experience]]
   title = "Graduate Researcher"
