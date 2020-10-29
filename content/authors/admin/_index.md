@@ -29,7 +29,7 @@ education:
   - course: MS in Electrical and Computer Engineering
     institution: University of Michigan Ann Arbor
     year: 2021
-  - course: BSc in Communication Engineering
+  - course: BS in Communication Engineering
     institution: University of Electrical and Scientific Technology of China 
     year: 2019
 
