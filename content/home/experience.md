@@ -25,7 +25,7 @@ subtitle = ""
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  > **Variational Autoencoder algorithm in resting state fMRI data.** **[code&demo](https://github.com/CoderNoMercy)**.
+  > **Variational Autoencoder algorithm in resting state fMRI data.** **[code&demo](https://github.com/CoderNoMercy/resting_state_fmri_3D_VAE)**.
   * Extracted code was used to do individual identification (as brain ID). K-means clustering is performed to analyze brain patterns reflected by latent space. 
   * Extend the data from 2D fMRI data to 3D fMRI data. 3D data contains white matters. I analyzed latent code considering 'channel bandwidth' to see the non-informative latent variable and informative variable in VAE model.
   > **Neural Ordinary Differential Equation for temporal dynamic model.** 
