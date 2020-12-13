@@ -1,6 +1,6 @@
 ---
 title: Video prediction from single starting image
-summary: Extract language features  from  VisualCOMET to predict the context information given single image. Combined with the video generation backbone (Ordinary DifferentialEquation and 3D convolutional VAE), we generate sharper and  temporally  coherent  videos  from  a  single  shot  of  theimage compared to the methods without language information. Noise Contrastive Estimation (NCE) contrastive loss plays important role. **[Colab notebook](https://colab.research.google.com/drive/1BSQZh9C4Uc3FG6vY-GBdcuNE1s2ED-Pe?usp=sharing)**
+summary: Extract language features  from  VisualCOMET to predict the context information given single image. Combined with the video generation backbone (Ordinary DifferentialEquation and 3D convolutional VAE) and Noise Contrastive Estimation (NCE) contrastive loss, we generate sharper and temporally coherent videos. **[Colab notebook](https://colab.research.google.com/drive/1BSQZh9C4Uc3FG6vY-GBdcuNE1s2ED-Pe?usp=sharing)**
 tags:
 - CV
 date: "2019-04-27T00:00:00Z"
