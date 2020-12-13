@@ -1,15 +1,15 @@
 ---
-title: Speech to Face
-summary: Extract latent code from both Speech signal and face image signal. Forced them to distribute close to each other. In testing time, generate talking face from speech data. **[code](https://github.com/CoderNoMercy/Feature2Face)**
+title: Video prediction from single starting image
+summary: Extract language features  from  VisualCOMET to predict the context information given single image. Combined with the video generation backbone (Ordinary DifferentialEquation and 3D convolutional VAE), we generate sharper and  temporally  coherent  videos  from  a  single  shot  of  theimage compared to the methods without language information. Noise Contrastive Estimation (NCE) contrastive loss plays important role. **[Colab notebook](https://colab.research.google.com/drive/1BSQZh9C4Uc3FG6vY-GBdcuNE1s2ED-Pe?usp=sharing)**
 tags:
 - CV
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/CoderNoMercy/Feature2Face"
+external_link: "https://colab.research.google.com/drive/1BSQZh9C4Uc3FG6vY-GBdcuNE1s2ED-Pe?usp=sharing"
 
 image:
-  caption: generated face image
+  caption: Video prediction from single starting image
   focal_point: Smart
 
 # links:
