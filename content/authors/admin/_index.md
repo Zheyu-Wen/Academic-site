@@ -70,5 +70,5 @@ user_groups:
 - Student
 ---
 
-Zheyu Wen is research assistant and master student in University of Michigan, Ann Arbor. His research interests include Computer Vision, Spatial temporal dynamic modeling for resting fMRI data and image processing. He is going to pursue Ph.D. program in Fall 2021.
+Zheyu Wen is a Graduate Research Assistant and Ph.D. student in UT-Austin.
 
