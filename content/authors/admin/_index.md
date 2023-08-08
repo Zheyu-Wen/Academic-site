@@ -6,30 +6,31 @@ title: Zheyu Wen
 superuser: true
 
 # Role/position
-role: Research Assistant/Master student
+role: Graduate Research Assistant/Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan, Ann Arbor
+- name: University of Texas at Austin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, brain image data processing, Machine Learning .
+bio: My research interests include Medical image, High performance computing, Machine Learning .
 
 interests:
-- Computer Vision
-- Spatial temporal dynamic
-- brain image
+- Computational medical image
+- Spatial temporal dynamic model
+- CUDA programming
 
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-  #  year: 2012
-  - course: MS in Electrical and Computer Engineering
+
+  - degree: Ph.D. in Computational Science Engineering,
+    institution: University of Texas at Austin
+    year: 2026
+  - degree: MS in Electrical and Computer Engineering
     institution: University of Michigan Ann Arbor
     year: 2021
-  - course: BS in Communication Engineering
+  - degree: BS in Communication Engineering
     institution: University of Electrical and Scientific Technology of China 
     year: 2019
 
